@@ -1,6 +1,8 @@
 # Vertical Scroll Picker
 
-Scroll selector like dropdown.
+Scroll selector like dropdown.</br>
+![alt text](https://github.com/redarchid/Vertical-Scroll-Picker/blob/master/app/src/main/res/drawable/sample.png?raw=true)
+
 
 ## Installation
 ### Step 1. Add the JitPack repository to your build file
