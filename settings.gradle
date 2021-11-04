@@ -1,2 +1,3 @@
+include ':VerticalScrollPicker'
 include ':app'
 rootProject.name = "Vertical Scroll Picker"

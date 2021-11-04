@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerticalScrollPicker">
+        <!-- SPACER -->
+        <attr name="setSpacer" format="integer"/>
+
+        <!-- MARKER -->
+        <attr name="markerVisibility" format="enum">
+            <enum name="VISIBLE" value="1"/>
+            <enum name="GONE" value="0"/>
+        </attr>
+        <attr name="markerBackgroundColor" format="color"/>
+        <attr name="markerLineTopColor" format="color"/>
+        <attr name="markerLineBottomColor" format="color"/>
+
+        <!-- TEXT IDLE -->
+        <attr name="textIdleSample" format="string"/>
+        <attr name="textIdleColor" format="color"/>
+        <attr name="textIdleSize" format="integer"/>
+        <attr name="textIdleBackgroundColor" format="color"/>
+        <attr name="textIdleBackgroundResource" format="reference"/>
+        <attr name="textIdleBackgroundResourceTint" format="color"/>
+
+        <!-- TEXT FOCUS -->
+        <attr name="textFocusSample" format="string"/>
+        <attr name="textFocusColor" format="color"/>
+        <attr name="textFocusSize" format="integer"/>
+        <attr name="textFocusBackgroundColor" format="color"/>
+        <attr name="textFocusBackgroundResource" format="reference"/>
+        <attr name="textFocusBackgroundResourceTint" format="color"/>
+    </declare-styleable>
+</resources>
