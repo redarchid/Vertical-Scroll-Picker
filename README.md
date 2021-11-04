@@ -25,6 +25,18 @@ dependencies {
 	implementation 'com.github.redarchid:Vertical-Scroll-Picker:0.1.0'
 }
 ```
+## Usage
+Create a `VerticalScrollPicker` in your layout as follows:
+```
+<com.redarchid.VerticalScrollPicker
+	android:id="@+id/verticalScrollPicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:setSpacer="2"
+        app:markerVisibility="GONE"
+        app:textFocusColor="@color/white" 
+	/>
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
