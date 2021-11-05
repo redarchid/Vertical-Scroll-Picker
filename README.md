@@ -28,7 +28,7 @@ dependencies {
 ## Usage
 Create a `VerticalScrollPicker` in your layout as follows:
 ```
-<com.redarchid.VerticalScrollPicker
+<com.jtkurniawan.verticalscrollpicker.VerticalScrollPicker
 	android:id="@+id/verticalScrollPicker"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
