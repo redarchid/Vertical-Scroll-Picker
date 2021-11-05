@@ -1,4 +1,4 @@
-# Vertical Scroll Picker
+# Vertical Scroll Picker (Android)
 
 Scroll selector like dropdown.</br>
 ![alt text](https://github.com/redarchid/Vertical-Scroll-Picker/blob/master/app/src/main/res/drawable/sample.png?raw=true)
